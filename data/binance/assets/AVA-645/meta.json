@@ -1,0 +1,25 @@
+{
+  "name": "Travala.com Token",
+  "symbol": "AVA-645",
+  "web": "https://www.travala.com",
+  "explorer": "https://explorer.binance.org/asset/AVA-645",
+  "links": {
+    "github": "https://github.com/travala",
+    "coingecko": "concierge-io",
+    "twitter": "https://twitter.com/travalacom",
+    "facebook": "https://www.facebook.com/travala",
+    "telegram": "https://t.me/travala",
+    "reddit": "https://www.reddit.com/r/Travala",
+    "instagram": "https://www.instagram.com/travalacom",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/travala",
+    "youtube": "https://www.youtube.com/channel/UCUyqRraSM2nNpJp86yYodmw",
+    "linkedin": "https://www.linkedin.com/company/travalacom"
+  },
+  "email": null,
+  "decimals": 18,
+  "supply": 61181769,
+  "gen": {
+    "logo": "logo.png",
+    "score": 24
+  }
+}

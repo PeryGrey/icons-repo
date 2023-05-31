@@ -1,0 +1,15 @@
+{
+  "symbol": "LINK-AAD",
+  "name": "LINKBEP2",
+  "email": null,
+  "web": null,
+  "decimals": 18,
+  "supply": 2000000,
+  "links": {
+    "research": "https://research.binance.com/en/projects/chainlink"
+  },
+  "gen": {
+    "logo": "logo.svg",
+    "score": 10
+  }
+}

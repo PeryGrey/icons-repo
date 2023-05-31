@@ -1,0 +1,25 @@
+{
+  "name": "Contentos",
+  "symbol": "COS-2E4",
+  "web": "https://www.contentos.io",
+  "explorer": "https://explorer.binance.org/asset/COS-2E4",
+  "links": {
+    "github": "https://github.com/coschain",
+    "coingecko": "contentos",
+    "twitter": "https://twitter.com/contentosio",
+    "facebook": "https://www.facebook.com/ContentosOfficial",
+    "telegram": "https://t.me/ContentosGlobal",
+    "reddit": "https://www.reddit.com/r/Contentosofficial",
+    "medium": "https://medium.com/contentos-io",
+    "youtube": "https://www.youtube.com/channel/UCTHA9CYW8UxZOSjCFckMX6A",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/contentos",
+    "research": "https://research.binance.com/en/projects/contentos"
+  },
+  "email": "service@contentos.io",
+  "decimals": null,
+  "supply": 9400000000,
+  "gen": {
+    "logo": "logo.png",
+    "score": 29
+  }
+}

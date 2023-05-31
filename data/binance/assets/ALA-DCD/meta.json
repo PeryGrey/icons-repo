@@ -1,0 +1,13 @@
+{
+  "symbol": "ALA-DCD",
+  "name": "Alaris",
+  "email": null,
+  "web": "https://alaris.io",
+  "decimals": null,
+  "supply": 60000000,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "score": 5
+  }
+}

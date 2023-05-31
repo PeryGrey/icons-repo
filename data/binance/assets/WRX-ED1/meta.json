@@ -1,0 +1,25 @@
+{
+  "name": "WazirX Token",
+  "symbol": "WRX-ED1",
+  "web": "https://wazirx.com",
+  "explorer": "https://explorer.binance.org/asset/WRX-ED1",
+  "links": {
+    "github": "https://github.com/wazirx",
+    "coingecko": "wazirx",
+    "twitter": "https://twitter.com/wazirxindia",
+    "facebook": "https://www.facebook.com/wazirx",
+    "telegram": "https://t.me/wazirx",
+    "medium": "https://medium.com/wazirx",
+    "youtube": "https://youtube.com/wazirx",
+    "coinmarketcap": "https://coinmarketcap.com/exchanges/wazirx",
+    "linkedin": "https://www.linkedin.com/company/wazirx",
+    "research": "https://research.binance.com/en/projects/wazirx"
+  },
+  "email": "dev@wazirx.com",
+  "decimals": null,
+  "supply": 995833334,
+  "gen": {
+    "logo": "logo.png",
+    "score": 33
+  }
+}

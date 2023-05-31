@@ -1,0 +1,13 @@
+{
+  "symbol": "SBC-5D4",
+  "name": "SB Token",
+  "email": null,
+  "web": null,
+  "decimals": null,
+  "supply": 1500000000,
+  "links": {},
+  "gen": {
+    "logo": "logo.png",
+    "score": 0
+  }
+}

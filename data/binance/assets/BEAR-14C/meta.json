@@ -1,0 +1,19 @@
+{
+  "symbol": "BEAR-14C",
+  "name": "3X Short Bitcoin Token",
+  "email": null,
+  "web": "https://ftx.com",
+  "decimals": null,
+  "supply": 50301,
+  "links": {
+    "telegram": "https://t.me/FTX_Official"
+  },
+  "config": {
+    "dark": false
+  },
+  "gen": {
+    "logo": "logo.png",
+    "hasDark": false,
+    "score": 5
+  }
+}
