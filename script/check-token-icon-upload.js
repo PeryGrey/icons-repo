@@ -17,11 +17,11 @@ fs.readdir(dataFolderPath, (err, files) => {
   files.forEach((file) => {
     const extension = path.extname(file);
 
-    if (!file.includes('logo')) {
-      console.error(`Invalid file name: ${file}`);
-      console.error('File name must be "logo"');
-      return;
-    }
+    // if (!file.includes('logo')) {
+    //   console.error(`Invalid file name: ${file}`);
+    //   console.error('File name must be "logo"');
+    //   return;
+    // }
 
     // check if image is svg or png
     if (!allowedExtensions.includes(extension)) {
